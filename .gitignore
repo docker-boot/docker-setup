@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.tar.gz
+*.gradle
+
+# Test binary
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+*.class
+
+# Mac Desktop Services Store
+.DS_Store
+
+# IDE
+.idea
+.iml
+.vscode
+.classpath
+.project
+.settings
+.ipr
+.iws
+
+# Misc
+*~
+.#*
+*.log
